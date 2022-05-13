@@ -3,6 +3,8 @@
 ## Description
 This maze game is a simple game that allows the player to solve mazes of various sizes.
 
+![Gameplay Screenshot](/docs/gameplay.png)
+
 ## Features I'm Most Proud Of
 * Utilized Prim's algorithm for maze generation
 * Implemented breadth-first-search to maintain shortest path to finish
