@@ -1,7 +1,7 @@
 # MazeGame
 
 ## Description
-This maze game is a simple game that allows the player to solve mazes of various sizes.
+A simple maze game that allows the player to solve mazes of various sizes. Mazes are randomly generated, and a player's score increases when they move along the path towards the finish, and goes down when they make a wrong turn.
 
 ## Features I'm Most Proud Of
 * Utilized Prim's algorithm for maze generation
